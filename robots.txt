@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://onurpro.github.io/onuryildiz/sitemap.xml
