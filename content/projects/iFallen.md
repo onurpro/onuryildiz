@@ -31,7 +31,7 @@ We spilt the group into 4 teams.
 3. Software team
 4. Design & Modeling team
 
-- My role in the group was to lead software team, I programmed the microcontroller with Python, worked on the fall detection aligorithm, and design the device's logic. My teamate helped on the aligorithm and programmed the communication between the microcontroller and phone.
+- My role in the group was to lead the software team, I programmed the microcontroller with Python, worked on the fall detection aligorithm, and design the device's logic. My teamate helped on the aligorithm and programmed the communication between the microcontroller and phone.
 - In addition to my resposibilites in the software, I also designed and soldered the circuit.
 - The management team kept us on a desriable pace and would order the needed components.
 - The presentation team would work on the presentations we had throughout the semester.

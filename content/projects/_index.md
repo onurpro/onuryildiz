@@ -5,7 +5,7 @@ groupByYear: false
 
 cascade:
     showAuthor: false
-    showDate: true
+    showDate: false
     showReadingTime: true
     showTableOfContents: true
     showSummary: true
