@@ -6,11 +6,6 @@ showDate: false
 showReadingTime: false
 showPagination: false
 ---
-
-# Onur Yildiz
-
-## About Me
-
 I am Onur Yildiz, a dedicated and adaptable individual with a strong foundation in both academics and the service industry. Currently, I am an engineering student at Simon Fraser University, having graduated from a French Immersion Program. My diverse experiences have equipped me with a unique blend of skills, making me a quick learner, a team player, and highly tech literate.
 
 ## Professional Experience
