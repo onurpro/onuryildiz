@@ -7,38 +7,40 @@ description: "A fall detection device."
 weight: 10
 ---
 
-Myself and seven others were tasked with finding a problem and designing its solution.
+**Role:** Software Team Lead
+
+## Project Overview
+
+My team of seven and I were tasked with identifying a problem and designing an innovative solution.
 
 ## Learning Objectives
 
-- Design a solution around a problem.
-- Understand the fundamentals of design.
+- Develop a solution tailored to a specific problem.
+- Grasp the fundamentals of design and engineering.
 
 ## Inspiration
 
-With my grandmother staying with my family I found it very easy to worry about her when we were not home. I extended this sentiment to the team and expanded it to anyone who may be at risk of falling.
+Concern for my grandmother's safety when home alone inspired the concept. This concern extended to our team’s focus on creating a device to aid anyone at risk of falling.
 
-## What it does
+## What It Does
 
-At the core of the iFallen is a microcontroller and an accelerometer. The microcontroller reads data from the accelerometer and determines a if a fall has occurred using a extremely customizable threshold approach. After a short period of time, a text is sent to a loved one's phone. A button is also included on the device which can be pressed in that short period to let the device know you are okay and the text can be canceled.
+The iFallen device is built around a microcontroller and an accelerometer. It detects falls using a highly customizable threshold approach. If a fall is detected, a text message is sent to a designated contact after a short delay. The device includes a button that can cancel the alert if the user is unharmed.
 
-## How we built it
+## Development Process
 
-We spilt the group into 4 teams.
+We divided our team into four specialized groups:
 
-1. Management team
-2. Presentation team
-3. Software team
-4. Design & Modeling team
+1. **Management Team:** Kept the project on schedule and managed component procurement.
+2. **Presentation Team:** Prepared and delivered presentations throughout the semester.
+3. **Software Team:** Focused on programming and developing the fall detection algorithm.
+4. **Design & Modeling Team:** Responsible for the device’s exterior design and housing.
 
-- My role in the group was to lead the software team, I programmed the microcontroller with Python, worked on the fall detection algorithm, and design the device's logic. My teammate helped on the algorithm and programmed the communication between the microcontroller and phone.
-- In addition to my responsibilities in the software, I also designed and soldered the circuit.
-- The management team kept us on a desirable pace and would order the needed components.
-- The presentation team would work on the presentations we had throughout the semester.
-- The design and modeling team were responsible for the exterior and housing of the device.
+### My Contributions
 
-Though we were in our own teams the group worked together as often as we could. This allowed ideas to be spread across teams to keep us inspired.
+- **Software Development:** Led the software team in programming the microcontroller using Python. Developed the fall detection algorithm and designed the device's logic.
+- **Hardware Design:** Designed and soldered the circuit.
+- **Team Collaboration:** Worked closely with my team to ensure integration of ideas across all groups, enhancing the final product.
 
-## What I learned
+## Key Learnings
 
-This experience pushed me to learn how to work with others. It was common that my teammate and I would not agree on the best approach but working with him on these problems and finding the best solution not only boosted our moral and made us excited to work on the project more but resulted in a better final product.
+This project honed my teamwork skills, particularly in resolving differences with teammates to find the best solutions. Collaborative problem-solving not only improved our project outcomes but also boosted team morale and excitement.
