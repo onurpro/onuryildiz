@@ -1,6 +1,6 @@
 ---
 title: "projects"
-descrption: "My completed and ongoing projects"
+description: "My completed and ongoing projects"
 groupByYear: false
 
 cascade:
