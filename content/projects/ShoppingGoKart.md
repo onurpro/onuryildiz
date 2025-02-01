@@ -1,6 +1,6 @@
 ---
 title: "Shopping Go-Kart"
-date: 2024-14-9
+date: 2024-9-14
 draft: false
 icon: fallen
 description: "An electric go-kart made from a shopping cart."

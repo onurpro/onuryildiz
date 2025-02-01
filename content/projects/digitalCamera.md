@@ -1,6 +1,6 @@
 ---
 title: "DIY Digital Camera"
-date: 2025-02-01
+date: 2025-01-31
 draft: false
 icon: camera
 description: "Designing and building a custom digital camera using a Raspberry Pi."
