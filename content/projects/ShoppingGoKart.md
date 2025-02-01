@@ -1,8 +1,8 @@
 ---
 title: "Shopping Go-Kart"
-date: 2024-9-14
+date: 2024-09-14
 draft: false
-icon: fallen
+icon: fallen.svg
 description: "An electric go-kart made from a shopping cart."
 weight: 9
 ---
