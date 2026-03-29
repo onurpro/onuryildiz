@@ -1,7 +1,7 @@
 ---
 title: "DIY Digital Camera"
 date: 2025-01-31
-draft: false
+draft: true
 icon: camera
 description: "Designing and building a custom digital camera using a Raspberry Pi."
 weight: 8
