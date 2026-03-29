@@ -3,10 +3,10 @@ title = "Onur Yildiz"
 [params.author]
   name = "Onur Yildiz"
   image = "img/onuryildiz.jpg"
-  headline = "Full time SFU engineering student"
+  headline = "Computer Engineering @ SFU | SubVision Robotics"
   bio = "Connect with me"
   links = [
-    { email = "mailto:onur07132@gmail.com" },
+    { email = "mailto:oya4@sfu.ca" },
     # { lastfm = "https://www.last.fm/user/onur_pro" },
     { linkedin = "https://www.linkedin.com/in/onur-yildiz-493a38230/" },
     { instagram = "https://www.instagram.com/theonuryildiz/" },

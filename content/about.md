@@ -6,8 +6,12 @@ showDate: false
 showReadingTime: false
 showPagination: false
 ---
-I'm Onur Yildiz, an engineering student at Simon Fraser University with a knack for building things, solving problems, and leading teams. I’ve always been passionate about hands-on projects that combine creativity with technology, whether it’s designing an electric go-kart from a shopping cart or simulating hardware systems in VHDL. I thrive in collaborative environments where we push the limits of what’s possible.
+I'm Onur Yildiz, a Computer Engineering student at Simon Fraser University with a passion for building things at the intersection of hardware and software. Whether it's designing embedded systems, writing low-level C for real-time applications, or soldering together a battery pack — I thrive on hands-on projects that push me to learn something new.
 
-One of my proudest projects was designing the drivetrain for an electric go-kart. Starting from scratch, I tackled the challenges of integrating a power delivery system that worked within the structural limitations of a shopping cart—a fun and technically demanding problem that tested my engineering skills. On another project, I led a team to create a fall detection device, combining hardware and software to help at-risk individuals. Both experiences taught me the value of teamwork, creativity, and technical precision.
+Right now, I'm the **Project Lead & Electronics Lead at SubVision Robotics**, a student-led startup building an underwater ROV. I architect the hardware and electronic systems, from a Raspberry Pi 4‑based compute stack that runs SLAM algorithms, to an STM32 sensor board running RTOS for real-time data collection from IMUs, GPS, and optical flow sensors. I also previously worked on **Team Phantom FSAE**'s tractive system at SFU.
 
-I'm always looking to refine my skills and take on new challenges, with the ultimate goal of becoming an engineer who not only designs innovative products but also leads teams to success. In my free time, you’ll probably find me collecting vinyl records, building with LEGO, or catching up on Formula 1.
+One of my recent academic highlights was building a **Distributed Real-Time Speech-to-Speech Translator** — a system of three embedded Linux nodes orchestrated over a custom C-based TCP/IP protocol, with cross-compiled C/C++ binaries targeting ARM64. I've also designed VHDL-based digital systems, built an electric go-kart capable of 25 km/h from a shopping cart, and led a team to create a fall detection device.
+
+**Skills I work with:** Python, C/C++, VHDL, MATLAB · STM32, Raspberry Pi, IMUs, Embedded Linux · Quartus Prime, ModelSim, LTSpice, CMake · Soldering, 3D printing, oscilloscopes, battery pack assembly
+
+I'm always looking to refine my skills and take on new challenges, with the goal of becoming an engineer who designs innovative products and leads teams to success. In my free time, you'll find me collecting vinyl records, building with LEGO, or catching up on Formula 1.
