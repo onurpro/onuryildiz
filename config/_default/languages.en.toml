@@ -1,6 +1,6 @@
 title = "Onur Yildiz"
 
-[author]
+[params.author]
   name = "Onur Yildiz"
   image = "img/onuryildiz.jpg"
   headline = "Full time SFU engineering student"
